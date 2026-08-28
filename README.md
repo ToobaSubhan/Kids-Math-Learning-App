@@ -19,10 +19,6 @@
 - **Architecture**: Modular Activity-based architecture
 - **Animations**: Custom Canvas API for star backgrounds and Property Animators for UI transitions.
 
-## 📸 Screenshots
-
-*(Add your screenshots here later)*
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
